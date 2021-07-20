@@ -1,4 +1,4 @@
-# About Mi
+# About Me
 
 ## I'M Lucas de Souza Santos
 
