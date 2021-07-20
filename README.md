@@ -2,7 +2,7 @@
 
 ## I'M Lucas de Souza Santos
 
-* I live in Recife  Northeast of :brazil:
+* I live in Recife  Northeast of :brazil:,
 
 * I'm 29 years old
 
@@ -15,5 +15,9 @@
 ## Connect me:
 
 ## Hardware Skills
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 ## Software Skills
