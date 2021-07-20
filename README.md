@@ -2,7 +2,7 @@
 
 ## I'M Lucas de Souza Santos
 
-* I live in Recife  Northeast of :brazil;
+* I live in Recife  Northeast of :brazil:
 
 * I'm 29 years old
 
