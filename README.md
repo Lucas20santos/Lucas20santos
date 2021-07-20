@@ -16,6 +16,6 @@
 
 ## Hardware Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
 ## Software Skills
