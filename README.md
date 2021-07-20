@@ -16,13 +16,13 @@
 
 ## Hardware Skills
 
-<img width="100" height="100" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
-<img width="100" height="100" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<img width="100" height="100" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
-<img width="100" height="100" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 ## Software Skills
 
