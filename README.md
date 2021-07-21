@@ -2,11 +2,11 @@
 
 ## I'M Lucas de Souza Santos
 
-* I live in Recife  Northeast of :brazil:,
+* I live in Recife  Northeast of :brazil:
 
 * I'm 29 years old
 
-* I'M student of engineering at the Universidade Federal de Pernambuco (UFPE) ;
+* I'm student of engineering at the Universidade Federal de Pernambuco (UFPE) ;
 
 * I've studying programming for 2 years
 
@@ -61,3 +61,5 @@
 * tenho ambição para crescer cada vez mais
 * gosto muito de aprender
 * consigo me comunicar bem
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas20santos)](https://github.com/Lucas20santos/github-readme-stats)
