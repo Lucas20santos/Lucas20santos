@@ -30,7 +30,7 @@
 <img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/145/145812.png">
 </a>
 
-## Hardware Skills
+## My Skills
 
 <a>
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
