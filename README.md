@@ -62,5 +62,4 @@
 * gosto muito de aprender
 * consigo me comunicar bem
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas20santos)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&theme=radical)
