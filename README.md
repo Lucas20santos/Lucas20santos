@@ -14,20 +14,20 @@
 
 ## Connect me:
 
-<a href="https://www.facebook.com/LUCAS210SANTOS/">
+<a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank">
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
 </a>
 
-<a href="https://www.linkedin.com/in/lucas-santos-613464176/">
+<a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blanck">
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 
-<a href="">
-<img width="50" height="50" align="center">
+<a href="https://www.instagram.com/lucas.santos22/" target="_blank">
+<img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
 </a>
 
 <a href="">
-<img width="50" height="50" align="center">
+<img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/145/145812.png">
 </a>
 
 ## Hardware Skills
