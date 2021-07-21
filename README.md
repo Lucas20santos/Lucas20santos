@@ -55,9 +55,9 @@
 
 ## Software Skills
 
-* sei trabalhar em grupo
-* consigo ter iniciativa
-* consigo liderar um grupo
+* já trabalhei em grupo na igreja e na faculdade
+* tenho iniciativa
+* liderei grupo da igreja
 * tenho ambição para crescer cada vez mais
 * gosto muito de aprender
 * consigo me comunicar bem
