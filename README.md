@@ -14,7 +14,24 @@
 
 ## Connect me:
 
+<a href="https://www.facebook.com/LUCAS210SANTOS/">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-santos-613464176/">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+
+<a href="">
+<img width="50" height="50" align="center">
+</a>
+
+<a href="">
+<img width="50" height="50" align="center">
+</a>
+
 ## Hardware Skills
+
 <a>
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </a>
@@ -29,6 +46,10 @@
 
 <a>
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
+
+<a href="">
+<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </a>
 
 
