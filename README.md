@@ -31,7 +31,7 @@
 </a>
 
 ## My Skills
-
+<div>
 <a>
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </a>
@@ -51,7 +51,7 @@
 <a href="">
 <img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </a>
-
+</div>
 
 ## Software Skills
 
