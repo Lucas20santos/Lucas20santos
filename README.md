@@ -1,16 +1,16 @@
 # About Me
 
-## I'M Lucas de Souza Santos
+## Eu sou Lucas de Souza Santos
 
-* I live in Recife  Northeast of :brazil:
+* Moro no Recife, capital de Pernabuco, no Brazil
 
-* I'm 29 years old
+* Nasci em 21-02-1992
 
-* I'm student of engineering at the Universidade Federal de Pernambuco (UFPE) ;
+* Sou estudante de engenharia da Universidade Federal de Pernambuco (UFPE) ;
 
-* I've studying programming for 2 years
+* Tem 3 anos que estudos sobre algumas linguagem de programação, mas focado em linguagem para Back-End
 
-* I'm not fluent in English, but I study online
+* Não sou fluente no Inglês! Mas venho estudando com video aula no YouTube e outros materias pela internet. 
 
 ## Connect me:
 
