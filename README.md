@@ -26,7 +26,7 @@
 <img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
 </a>
 
-<a href="">
+<a href="https://github.com/Lucas20santos">
 <img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/145/145812.png">
 </a>
 
