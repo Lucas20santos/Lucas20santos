@@ -65,6 +65,6 @@
 
 <div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&include_all_commits=true&theme=dracula">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas20santos&langs_count=168&theme=dracula&layout=compact">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&langs_count=168&theme=dracula&layout=compact">
 </div>
 
