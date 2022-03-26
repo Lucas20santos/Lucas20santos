@@ -11,25 +11,26 @@
 * Tem 3 anos que estudos sobre algumas linguagem de programação, mas focado em linguagem para Back-End
 
 * Não sou fluente no Inglês! Mas venho estudando com video aula no YouTube e outros materias pela internet. 
-* 
+
+
 ## Connect me:
+<div>
+      <a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank">
+            <img width="100" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+      </a>
 
-<a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank">
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
-</a>
+      <a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blanck">
+            <img width="100" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
 
-<a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blanck">
-<img width="50" height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
+      <a href="https://www.instagram.com/lucas.santos22/" target="_blank">
+            <img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
+      </a>
 
-<a href="https://www.instagram.com/lucas.santos22/" target="_blank">
-<img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/2111/2111463.png">
-</a>
-
-<a href="https://github.com/Lucas20santos">
-<img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/145/145812.png">
-</a>
-
+      <a href="https://github.com/Lucas20santos">
+            <img width="50" height="50" align="center" src="https://image.flaticon.com/icons/png/128/145/145812.png">
+      </a>
+</div>
 ## My Skills
 <div>
 <a>
