@@ -11,7 +11,7 @@
 * Tem 3 anos que estudos sobre algumas linguagem de programação, mas focado em linguagem para Back-End
 
 * Não sou fluente no Inglês! Mas venho estudando com video aula no YouTube e outros materias pela internet. 
-
+* 
 ## Connect me:
 
 <a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank">
@@ -62,6 +62,9 @@
 * gosto muito de aprender
 * consigo me comunicar bem
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact)](https://github.com/Lucas20santos)
+<div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&include_all_commits=true&theme=dracula">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas20santos&langs_count=168&theme=dracula&layout=compact">
+</div>
+
