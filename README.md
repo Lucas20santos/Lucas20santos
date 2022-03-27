@@ -1,6 +1,6 @@
 # Sobre Min
 
-## Eu sou Lucas de Souza Santos
+## Eu sou Lucas de Souza Santos, sou estudante de engenharia de controle e automação e estudando programação
 
 <h2> Minhas Redes</h2>
 
