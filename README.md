@@ -1,4 +1,4 @@
-## Olá, sou Lucas de Souza Santos! Sou estudante de engenharia de controle e automação e estudando programação, adoro meus gatos e cachorros e adoro assistir filmes.
+<h2>Olá, sou Lucas de Souza Santos!<br>Sou estudante de engenharia de controle e automação e estudando programação, adoro meus gatos e cachorros e adoro assistir filmes.</h2>
 
 ### Minhas Redes
 
