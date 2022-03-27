@@ -22,17 +22,15 @@
 
 </div>
 
-## My Skills
+### My Skills
 
-### Sistemas Operacionais
+#### Sistemas Operacionais
 
-<div style="display: flex;">
+<div style="display: inline-block;"><br>
 
-<div style="margin: 5px;"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> </div>
-
-<div style="margin: 5px;"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit" alt=""></div>
-      
-<div style="margin: 5px;"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt=""> </div>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit" alt="">
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="">
 
 </div>
 
