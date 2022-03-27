@@ -24,7 +24,7 @@
 
 ### My Skills
 
-<p>Faço amizade rápida, sou bom trabalhando em equipe, convivo muito bem com pessoas de diferente personalidades. Questiono quando acho que é preciso, principalmente visando tirar todas as duvidas, mas sei obedecer ordem para o fortalecimento da equipe. Posso assumir o posto de lider, se for preciso.</p><br>
+<p style="text-align: justify; ">Faço amizade rápida, sou bom trabalhando em equipe, convivo muito bem com pessoas de diferente personalidades. Questiono quando acho que é preciso, principalmente visando tirar todas as duvidas, mas sei obedecer ordem para o fortalecimento da equipe. Posso assumir o posto de lider, se for preciso.</p><br>
 
 #### Sistemas Operacionais
 
