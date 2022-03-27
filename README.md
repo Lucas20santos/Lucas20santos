@@ -10,6 +10,8 @@
 
 ## Redes
 
+<div style="display: flex">
+
 <div style="margin: 5px;"> 
 <a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank"><img width="100" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
@@ -30,6 +32,8 @@
 <a href="https://github.com/Lucas20santos">
 <img width="100" height="30" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</div>
+
 </div>
 
 ## My Skills
