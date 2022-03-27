@@ -2,37 +2,23 @@
 
 ## Eu sou Lucas de Souza Santos
 
-* Moro no Recife, capital de Pernabuco, no Brazil
-* Nasci em 21-02-1992
-* Sou estudante de engenharia da Universidade Federal de Pernambuco (UFPE)
-* Tem 3 anos que estudos sobre algumas linguagem de programação, mas focado em linguagem para Back-End
-* Não sou fluente no Inglês! Mas venho estudando com video aula no YouTube e outros materias pela internet.
-
 ## Redes
 
-<div style="display: flex">
+<div style="display: inline-block"><br>
 
-<div style="margin: 5px;"> 
 <a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank"><img width="100" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</div>
 
-<div style="margin: 5px;">
 <a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blanck">
 <img width="100" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</div>
 
-<div style="margin: 5px;">
 <a href="https://www.instagram.com/lucas.santos22/" target="_blank">
 <img width="100" height="30" align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-</div>
 
-<div style="margin: 5px;">
 <a href="https://github.com/Lucas20santos">
 <img width="100" height="30" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</div>
 
 </div>
 
