@@ -2,7 +2,7 @@
 
 ## Eu sou Lucas de Souza Santos
 
-## Redes
+<h2> Minhas Redes</h2>
 
 <div style="display: inline-block"><br>
 
