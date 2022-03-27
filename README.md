@@ -1,4 +1,4 @@
-## Eu sou Lucas de Souza Santos, sou estudante de engenharia de controle e automação e estudando programação
+## Olá, sou Lucas de Souza Santos! Sou estudante de engenharia de controle e automação e estudando programação, adoro meus gatos e cachorros e adoro assistir filmes.
 
 ### Minhas Redes
 
@@ -47,9 +47,9 @@
 <img width="100" height="30" aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
 <img width="100" height="30" aling="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
 
-</div>
+</div><br>
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&include_all_commits=true&theme=dracula">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
