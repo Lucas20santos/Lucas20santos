@@ -6,7 +6,8 @@
 
 <div style="display: inline-block"><br>
 
-<a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank"><img width="100" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/LUCAS210SANTOS/" target="_blank">
+<img width="100" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 <a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blanck">
 <img width="100" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
