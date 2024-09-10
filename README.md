@@ -24,7 +24,7 @@
 
 ### My Skills
 
-Trabalhei por dois anos na Jeep/Stellantis: sou de fácil adaptação, consigo trabalhar com pessoas de vários perfis diferentes, sou resiliente, tolerante e flexivel. Trato todos com o mesmo respeito independente do cargo que ocupe, estou sempre disposto a aprender novas tecnologia.
+Trabalhei por dois anos na Jeep/Stellantis: sou de fácil adaptação, consigo trabalhar com pessoas de diferentes perfis, sou resiliente, tolerante e flexivel. Trato todos com o mesmo respeito, independente do cargo que ocupe, estou sempre disposto a aprender novas tecnologia.
 
 #### Sistemas Operacionais
 
