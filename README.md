@@ -24,7 +24,7 @@
 
 ### My Skills
 
-Faço amizade rápida, sou bom trabalhando em equipe, convivo muito bem com pessoas de diferente personalidades. Questiono quando acho que é preciso, principalmente visando tirar todas as duvidas, mas sei obedecer ordem para o fortalecimento da equipe. Posso assumir o posto de lider, se for preciso.
+Trabalhei por dois anos na Jeep/Stellantis: sou de fácil adaptação, consigo trabalhar com pessoas de vários perfis diferentes, sou resiliente, tolerante e flexivel. Trato todos com o mesmo respeito independente do cargo que ocupe, estou sempre disposto a aprender novas tecnologia.
 
 #### Sistemas Operacionais
 
