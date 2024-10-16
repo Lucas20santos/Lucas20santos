@@ -24,7 +24,12 @@
 
 ### My Skills
 
-Trabalhei por dois anos na Jeep/Stellantis: sou de fácil adaptação, consigo trabalhar com pessoas de diferentes perfis, sou resiliente, tolerante e flexivel. Trato todos com o mesmo respeito, independente do cargo que ocupe, estou sempre disposto a aprender novas tecnologia.
+Trabalhei por dois anos na Jeep/Stellantis na área de engenharia de manutenção e pude absorver: 
+- Controle de estoque para abastecimento na linha de produção
+- Monitoramento do fluxo de materiais para evitar interrupções
+- Cadastro de materias
+- Fazer pedido de compras e alinhamento com setor de planejamento entre vários setores
+- Reuniões semanais para analise de materiais obsoletos e estrategicos
 
 #### Sistemas Operacionais
 
@@ -36,7 +41,7 @@ Trabalhei por dois anos na Jeep/Stellantis: sou de fácil adaptação, consigo t
 
 </div>
 
-#### Linguagem que estudo ou estudei
+#### Linguagem que estudo
 
 <div style="display: inline-block;">
 
