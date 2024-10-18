@@ -24,12 +24,19 @@
 
 ### My Skills
 
-Trabalhei por dois anos na Jeep/Stellantis na área de engenharia de manutenção e pude absorver: 
+#### Trabalhei por dois anos na Jeep/Stellantis na área de engenharia de manutenção e pude absorver: 
+
 - Controle de estoque para abastecimento na linha de produção
 - Monitoramento do fluxo de materiais para evitar interrupções
 - Cadastro de materias
 - Fazer pedido de compras e alinhamento com setor de planejamento entre vários setores
 - Reuniões semanais para analise de materiais obsoletos e estrategicos
+
+#### Iniciação ciêntifica
+
+- Projeto de controle de acesso
+- React js para a parte de front-end
+- Node Js para o back-end.
 
 #### Sistemas Operacionais
 
