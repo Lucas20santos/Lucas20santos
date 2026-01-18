@@ -2,7 +2,11 @@
 <h3 align="center">Desenvolvedor Back-end em formação | C# .NET</h3>
 
 <p align="center">
-Sou estudante de <strong>Engenharia de Controle e Automação</strong> e estou em transição para a área de <strong>Desenvolvimento Back-end</strong>, com foco em <strong>C# e .NET</strong>. Tenho experiência prévia em ambiente industrial, automação e regras de negócio, e hoje aplico essa base em projetos de software.
+Sou estudante de <strong>Engenharia de Controle e Automação</strong> em transição para a área de
+<strong>Desenvolvimento Back-end</strong>, com foco em <strong>C# e .NET</strong>.
+Possuo experiência prévia em ambientes industriais e automação, lidando com
+<strong>processos críticos, regras de negócio e organização de dados</strong>,
+habilidades que hoje aplico no desenvolvimento de software.
 </p>
 
 ---
@@ -25,44 +29,51 @@ Sou estudante de <strong>Engenharia de Controle e Automação</strong> e estou e
 
 ## 💼 Experiência Profissional
 
-### 🏭 Jeep / Stellantis — Engenharia de Manutenção (2 anos)
+### 🏭 Jeep / Stellantis — Engenharia de Manutenção
 
-Experiência em ambiente industrial de alta criticidade, com forte foco em processos, organização e tomada de decisão:
+Atuação em ambiente industrial de alta complexidade, com foco em controle de processos,
+organização de informações e tomada de decisão baseada em dados:
 
 * Controle e monitoramento de estoque para abastecimento da linha de produção
-* Acompanhamento do fluxo de materiais para evitar paradas produtivas
-* Cadastro e gestão de materiais no sistema
-* Solicitação de compras e alinhamento com planejamento e outros setores
+* Acompanhamento do fluxo de materiais, prevenindo paradas produtivas
+* Cadastro, análise e gestão de materiais em sistemas corporativos
+* Solicitação de compras e alinhamento com áreas de planejamento
 * Participação em reuniões semanais para análise de materiais obsoletos e estratégicos
 
-> Essa vivência fortaleceu minha visão de **processos, regras de negócio e responsabilidade com sistemas críticos**.
+> Essa experiência fortaleceu minha visão sobre
+<strong>regras de negócio, integridade de dados e confiabilidade de sistemas</strong>,
+conceitos diretamente aplicáveis ao desenvolvimento de software back-end.
 
 ---
 
 ## 🔬 Iniciação Científica
 
-* Desenvolvimento de um **sistema de controle de acesso**
-* Front-end com **React.js**
-* Back-end com **Node.js**
+Participação em projeto acadêmico com foco em desenvolvimento de sistemas:
+
+* Desenvolvimento de um <strong>sistema de controle de acesso</strong>
+* Front-end com <strong>React.js</strong>
+* Back-end com <strong>Node.js</strong>
+* Integração entre interface e lógica de negócio
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Conhecimentos
 
-### 🔹 Back-end
+### 🔹 Back-end (.NET)
 
 * C# (.NET)
 * Programação Orientada a Objetos (POO)
-* LINQ (Where, Select, Any, Average)
+* LINQ (Where, Select, Any, Average, All)
 * Coleções (List, Array, IEnumerable)
-* Validações e regras de negócio
+* Validações, regras de negócio e organização de código
+* Leitura e manutenção de código legado
 
-### 🔹 Front-end (conhecimento acadêmico)
+### 🔹 Front-end
 
 * HTML5 | CSS3 | JavaScript
 * React
 
-### 🔹 Outras habilidades
+### 🔹 Ferramentas e Outras Habilidades
 
 * Git e GitHub
 * Lógica de Programação
@@ -96,21 +107,29 @@ Experiência em ambiente industrial de alta criticidade, com forte foco em proce
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact&langs_count=7&theme=dracula"
-    height="180em"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+        height="180em"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact&langs_count=7&theme=dracula"
+        height="180em"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Back-end Júnior (C# / .NET)**, contribuindo para o desenvolvimento de sistemas e APIs, aplicando boas práticas, lógica sólida e aprendizado contínuo.
+Atuar como <strong>Desenvolvedor Back-end Júnior (C# / .NET)</strong>,
+participando do desenvolvimento de sistemas e APIs,
+aplicando boas práticas de código, lógica sólida e aprendizado contínuo.
 
 ⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
