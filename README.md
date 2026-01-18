@@ -13,7 +13,7 @@ habilidades que hoje aplico no desenvolvimento de software.
 
 ## 🌐 Minhas Redes
 
-<table align="center" cellpadding="8" cellspacing="0">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blank">
