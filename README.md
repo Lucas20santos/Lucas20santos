@@ -96,11 +96,16 @@ Experiência em ambiente industrial de alta criticidade, com forte foco em proce
 
 ## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact&langs_count=7&theme=dracula" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact&langs_count=7&theme=dracula"
+    height="180em"
+  />
+</div>
 
 ---
 
