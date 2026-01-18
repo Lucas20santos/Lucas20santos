@@ -1,12 +1,17 @@
 <h1>👋 Olá, eu sou o Lucas de Souza Santos</h1>
-<h3 >Desenvolvedor Back-end em formação | C# .NET</h3>
+<h3 >Desenvolvedor Back-end | C# .NET</h3>
 
-<p align="justify">
-Sou estudante de <strong>Engenharia de Controle e Automação</strong> em transição para a área de
-<strong>Desenvolvimento Back-end</strong>, com foco em <strong>C# e .NET</strong>.
-Possuo experiência prévia em ambientes industriais e automação, lidando com
-<strong>processos críticos, regras de negócio e organização de dados</strong>,
-habilidades que hoje aplico no desenvolvimento de software.
+<p>
+Sou Desenvolvedor Back-end com foco em C# e .NET, em transição da Engenharia de Controle e Automação para o desenvolvimento de software.
+</p>
+<p>
+Atuo no desenvolvimento de APIs REST, aplicando POO, LINQ, Entity Framework, SQL Server e validações de regras de negócio, com foco em código limpo e organização.
+</p>
+<p>
+Minha experiência em ambiente industrial me proporcionou forte visão de processos, confiabilidade de sistemas e tomada de decisão baseada em dados, competências que hoje aplico diretamente no desenvolvimento back-end.
+</p>
+<p>
+Atualmente busco oportunidades como Desenvolvedor Back-end Júnior (.NET), onde eu possa evoluir tecnicamente e contribuir com soluções robustas.
 </p>
 
 ---
