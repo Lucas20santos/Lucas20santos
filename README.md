@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Lucas de Souza Santos</h1>
-<h3 align="center">Desenvolvedor Back-end em formação | C# .NET</h3>
+<h1>👋 Olá, eu sou o Lucas de Souza Santos</h1>
+<h3 >Desenvolvedor Back-end em formação | C# .NET</h3>
 
-<p align="center">
+<p align="justify">
 Sou estudante de <strong>Engenharia de Controle e Automação</strong> em transição para a área de
 <strong>Desenvolvimento Back-end</strong>, com foco em <strong>C# e .NET</strong>.
 Possuo experiência prévia em ambientes industriais e automação, lidando com
@@ -13,17 +13,26 @@ habilidades que hoje aplico no desenvolvimento de software.
 
 ## 🌐 Minhas Redes
 
-<p align="center">
-<a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Lucas20santos" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/lucas.santos22/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+<table align="center" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-santos-613464176/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Lucas20santos" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/lucas.santos22/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -85,25 +94,44 @@ Participação em projeto acadêmico com foco em desenvolvimento de sistemas:
 
 ## 🖥️ Sistemas Operacionais
 
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ## 📚 Linguagens em Estudo
 
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
