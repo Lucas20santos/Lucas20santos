@@ -107,7 +107,7 @@ Participação em projeto acadêmico com foco em desenvolvimento de sistemas:
 
 ## 📊 GitHub Stats
 
-<table align="center">
+<table>
   <tr>
     <td>
       <img 
