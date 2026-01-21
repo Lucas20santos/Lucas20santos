@@ -1,5 +1,30 @@
 <h1>👋 Olá, eu sou o Lucas de Souza Santos</h1>
-<h3 >Desenvolvedor Back-end | C# .NET</h3>
+<br />
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    </a>
+    <br />
+    <br />
+  </p>
+
+  <h3 >Desenvolvedor Back-end | C# .NET</h3>
 
 <p>
 Sou Desenvolvedor Back-end com foco em C# e .NET, em transição da Engenharia de Controle e Automação para o desenvolvimento de software.
@@ -143,14 +168,17 @@ Participação em projeto acadêmico com foco em desenvolvimento de sistemas:
 <table>
   <tr>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas20santos&layout=compact&langs_count=7&theme=dracula"
-        height="180em"
-      />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas20santos&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas20santos&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+      </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎯 Objetivo
